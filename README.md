@@ -19,7 +19,7 @@ self.node_list is the partition prior for AAL atlas, should be changed based on 
 
 train_demo.py provide a training demo. train_data and test_data should be changed to real-world datas.
 
-ABIDE dataset can be download from [here](https://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html). 
+ABIDE dataset can be downloaded from [here](https://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html). 
 
 ## **Code environment**
 python 3.9
