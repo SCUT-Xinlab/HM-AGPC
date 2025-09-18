@@ -84,7 +84,7 @@ for epoch in range(60):
 		optimizer.step()
 		# scheduler.step()
 		running_loss += loss.item() / L_train * scale
-		_, predicted = torch.max(outputs.data, 1)  # 这里是每一组取最大值之后，然后取最大值的下标
+		_, predicted = torch.max(outputs.data, 1)
 		train_total += labels.size(0)
 		train_correct += (predicted == labels).sum().item()
 
