@@ -1,4 +1,4 @@
-# :sparkles: HM-AGPC
+# :sparkles: HM-AGPC :fireworks: :sparkler:
 
 [MICCAI 2025]The official code for Heterogeneous Masked Attention-Guided Path Convolution for Functional Brain Network Analysis
 
